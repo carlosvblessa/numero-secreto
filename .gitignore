@@ -1,0 +1,9 @@
+# Ignorar outros arquivos desnecessários
+.vscode/
+
+# Ignorar arquivos do R
+.Rhistory
+.RData
+
+# Variáveis de ambiente e segredos
+.Renviron
