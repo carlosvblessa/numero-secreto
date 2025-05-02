@@ -52,7 +52,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ---
 
 ## 👤 Autor  
-Carlos V. Blessa  
+Carlos V. B. Lessa  
 GitHub: [@carlosvblessa](https://github.com/carlosvblessa)  
 Repositório: [numero-secreto](https://github.com/carlosvblessa/numero-secreto)  
 
