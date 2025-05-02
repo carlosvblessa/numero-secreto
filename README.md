@@ -1,5 +1,7 @@
 # Jogo do Número Secreto 🎮  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![Tech Stack](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)](#tecnologias-utilizadas)  
+
 **Descrição:**  
 Um jogo interativo onde o usuário deve adivinhar um número aleatório gerado entre 1 e 50. Com feedback sonoro, contagem de tentativas e reinício de jogo, o desafio combina simplicidade e diversão para todos os públicos!  
 
