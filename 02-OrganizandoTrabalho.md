@@ -1,8 +1,8 @@
 
-# Organizando o Trabalho
+# 02. Organizando o Trabalho  
 
 ## Introdução  
-O Git é uma ferramenta essencial para gestão de projetos colaborativos, permitindo o trabalho em equipe de forma organizada. Este documento aborda conceitos fundamentais sobre branches, mesclagem, rebase e boas práticas para evitar conflitos e otimizar a colaboração.
+Este documento faz parte da série **"Git e GitHub: dominando controle de versão de código"** e aborda conceitos fundamentais sobre branches, mesclagem, rebase e boas práticas para evitar conflitos e otimizar a colaboração. Como o **segundo material da série**, ele complementa os conceitos básicos de análise de mudanças (abordados no primeiro documento) com estratégias para organizar e gerenciar projetos colaborativos no Git.  
 
 ---
 
@@ -156,4 +156,3 @@ git push origin :nome_branch
 
 ## Conclusão  
 Dominar o Git é essencial para colaboração eficiente. O uso estratégico de branches, mesclagem e rebase permite integrar alterações sem comprometer o histórico do projeto. Seguir boas práticas evita conflitos, garante transparência no trabalho em equipe e facilita a manutenção do repositório.  
-

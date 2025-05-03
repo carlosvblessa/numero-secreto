@@ -1,7 +1,7 @@
-# ManipulandoVersões
+# 03. Manipulando Versões  
 
 ## Introdução  
-O Git oferece ferramentas poderosas para manipulação de versões, permitindo que você gerencie alterações temporárias, reverta estados e mantenha o histórico do projeto organizado. Este documento aborda comandos essenciais como `git stash` e `git restore`, além de boas práticas para utilizá-los de forma eficaz.
+Este documento faz parte da série **"Git e GitHub: dominando controle de versão de código"** e aborda técnicas avançadas para manipular versões de projetos no Git. Como o **terceiro material da série**, ele complementa os conceitos de análise de mudanças (documento 01) e organização de trabalho com branches (documento 02), focando em ferramentas como `git stash` e `git restore`. Esses comandos permitem salvar alterações temporariamente, reverter estados do código e gerenciar versões de forma segura.  
 
 ---
 
@@ -115,4 +115,3 @@ O Git oferece ferramentas poderosas para manipulação de versões, permitindo q
 
 ## Conclusão  
 O domínio de comandos como `git stash` e `git restore` é fundamental para manipular versões de forma eficiente. Eles permitem salvar alterações temporárias, reverter estados e manter o repositório organizado. Seguir boas práticas evita erros críticos e garante um fluxo de trabalho mais produtivo e seguro.  
-
